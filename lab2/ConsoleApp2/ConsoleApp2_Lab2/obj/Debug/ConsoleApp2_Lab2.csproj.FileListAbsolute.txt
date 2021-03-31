@@ -1,0 +1,14 @@
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\bin\Debug\ConsoleApp2_Lab2.exe.config
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\bin\Debug\ConsoleApp2_Lab2.exe
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\bin\Debug\ConsoleApp2_Lab2.pdb
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.csprojAssemblyReference.cache
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.csproj.CoreCompileInputs.cache
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.exe
+G:\ООП\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.pdb
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\bin\Debug\ConsoleApp2_Lab2.exe.config
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\bin\Debug\ConsoleApp2_Lab2.exe
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\bin\Debug\ConsoleApp2_Lab2.pdb
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.csprojAssemblyReference.cache
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.csproj.CoreCompileInputs.cache
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.exe
+G:\ООП\lab2\ConsoleApp2\ConsoleApp2_Lab2\obj\Debug\ConsoleApp2_Lab2.pdb

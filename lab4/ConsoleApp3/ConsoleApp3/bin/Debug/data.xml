@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfSeed_ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Seed_>
+    <id>1</id>
+  </Seed_>
+  <Seed_>
+    <id>2</id>
+  </Seed_>
+  <Seed_>
+    <id>3</id>
+  </Seed_>
+  <Seed_>
+    <id>4</id>
+  </Seed_>
+  <Seed_>
+    <id>5</id>
+  </Seed_>
+  <Seed_>
+    <id>6</id>
+  </Seed_>
+</ArrayOfSeed_>
